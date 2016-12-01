@@ -1,6 +1,6 @@
 # Guidance for contributors
 
-Thank you for your interest in [docs.microsoft.com](https://docs.microsoft.com/), home of the technical content for products and services from Microsoft's Cloud and Enterprise Division!
+Thank you for your interest in [docs.microsoft.com](https://docs.microsoft.com/), home of the technical content for Microsoft products and services!
 
 ## Concepts
 
