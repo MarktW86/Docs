@@ -15,7 +15,7 @@ The following sections contain a more details:
 + [Other style and voice issues to watch for]
 
 
-##Use a customer-friendly voice
+## Use a customer-friendly voice
 
 We aspire to follow these principles when we write technical content for docs.microsoft.com. We may not always get there, but we need to keep trying!
 
@@ -27,7 +27,7 @@ We aspire to follow these principles when we write technical content for docs.mi
 
 - **Show empathy**: Use a supportive tone in the article, and keep disclaimers to a minimum. Honestly call out areas that will be frustrating to customers. Make sure the article focuses on what matters to the customer, don't just give a technical lecture.
 
-##Consider localization and machine translation
+## Consider localization and machine translation
 Our technical articles are translated into many other languages, and some are modified for particular markets. People might also be using machine translation on the web to read the technical articles. So, write with the following guidance in mind:
 
 - **Make sure the article contains no grammar, spelling, or punctuation errors**: This is something we should do in general. Markdown Pad 2.0 has a basic spell checker, but you should also paste the (rendered HTML) content from the article into Word, which has a more robust spell and grammar checker.
@@ -40,7 +40,7 @@ Our technical articles are translated into many other languages, and some are mo
 
 - **Include the "small words"**: Words that we consider small and unimportant in English because they are understood for context (such as "a", "the", "that", and "is") are crucial for machine translation - make sure you include them!
 
-##Other style and voice issues to watch for
+## Other style and voice issues to watch for
 
 - Don't break up steps with commentary or asides.
 
